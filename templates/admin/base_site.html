@@ -1,0 +1,16 @@
+{%  extends 'admin/base.html' %}
+{% load staticfiles %}
+{% load static %}
+
+{% block extrastyle %}
+    <link rel="stylesheet" type="text/css" href="{% static 'assets/css/admin.css' %}">
+{% endblock %}
+
+{% block branding %}
+    <h1 id="head">
+        <img src="{% static 'assets/img/logo.png' %}" class="brand_img" alt="Admin Area" hight="50" width="80">
+        My Site Admin
+    </h1>
+
+{% endblock %}
+

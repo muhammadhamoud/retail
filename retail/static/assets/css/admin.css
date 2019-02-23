@@ -1,0 +1,24 @@
+#header {
+    width: auto;
+    height: 40px;
+    padding: 10px 40px;
+    background: #484190;
+    line-height: 40px;
+    color: #ffc;
+    overflow: hidden;
+}
+
+#branding h1 {
+    color:#fff;
+}
+
+.module h2, .module caption, .inline-group h2 {
+    margin: 0;
+    padding: 8px;
+    font-weight: 400;
+    font-size: 13px;
+    text-align: left;
+    background: #1e4c98;
+    color: #fff;
+}
+
