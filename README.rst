@@ -1,4 +1,4 @@
-=========================
+==========================
 |$project|'s Documentation
 ==========================
 .. image:: http://unmaintained.tech/badge.svg
